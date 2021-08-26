@@ -37,5 +37,3 @@ A _Front-end_ / _Junior_ :seedling:  Developer at <a href="https://itkartellet.d
 :heavy_check_mark: Majored in Business & Computer science <br/>
 
 :heavy_check_mark: Currently working on not to panic whenever I run into errors on my code :deciduous_tree: <br/>
-
-:heavy_check_mark: Studied coding in English, so don't know in Korean:stuck_out_tongue_closed_eyes: <br/>
