@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 I am Korean who live in Copenhagen, Denmark<br/>
-A _Front-end_ / _Junior_ :seedling:  Developer at <a href="https://itkartellet.dk/">IT-Kartellet</a> & :woman_student: Student at HYF-Copenhagen :books: <br/>
+A _Junior_ _Front-end_ :seedling:  Developer at <a href="https://itkartellet.dk/">IT-Kartellet</a> & :woman_student: Student at HYF-Copenhagen :books: <br/>
 <br/>
 
 
@@ -36,4 +36,4 @@ A _Front-end_ / _Junior_ :seedling:  Developer at <a href="https://itkartellet.d
 
 :heavy_check_mark: Majored in Business & Computer science <br/>
 
-:heavy_check_mark: Currently working on not to panic whenever I run into errors on my code :deciduous_tree: <br/>
+:heavy_check_mark: Currently working on not to panic whenever I run into errors :deciduous_tree: <br/>
