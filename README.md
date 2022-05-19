@@ -20,20 +20,18 @@ Here are some ideas to get you started:
 <br/><br/>
 
 I am Korean who live in Copenhagen, Denmark<br/>
-A _Junior_ _Front-end_ :seedling:  Developer at <a href="https://itkartellet.dk/">IT-Kartellet</a> & :woman_student: Student at HYF-Copenhagen :books: <br/>
+A _Front-end_ Developer :seedling:  at <a href="https://trafficlab.dk/">Traffic Lab</a> & :woman_student: Student at HYF-Copenhagen :books: <br/>
 <br/>
 
 
 **More about myself :nerd_face::**<br/>
 
-:white_check_mark: Currently studying at HYF-Copenhagen(Class #19) <br/>
+:white_check_mark: Graduated at HYF-Copenhagen(Class #19) <br/>
 
-:white_check_mark: C#, HTML, CSS, SASS, twig <br/>
+:white_check_mark: C#, HTML, CSS, SASS, twig, Javascript, PHP, React, Angular, npm, <br/>
 
-:white_check_mark: Unity, Drupal and little bit of WordPress <br/>
+:white_check_mark: Unity, Drupal and WordPress <br/>
 
 :white_check_mark: Adobe Photoshop, Adobe Premiere Pro,  Adobe After Effects <br/>
 
 :heavy_check_mark: Majored in Business & Computer science <br/>
-
-:heavy_check_mark: Currently working on not to panic whenever I run into errors :deciduous_tree: <br/>
