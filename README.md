@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <br/><br/>
 
 I am Korean who live in Copenhagen, Denmark<br/>
-A _Front-end_ Developer :seedling:  at <a href="https://trafficlab.dk/">Traffic Lab</a> & :woman_student: Student at HYF-Copenhagen :books: <br/>
+A _Front-end_ Developer :seedling:  at <a href="https://trafficlab.dk/">Traffic Lab</a> <br/>
 <br/>
 
 
 **More about myself :nerd_face::**<br/>
 
-:white_check_mark: Graduated at HYF-Copenhagen(Class #19) <br/>
+:white_check_mark: Graduated of HYF-Copenhagen(Class #19) <br/>
 
 :white_check_mark: C#, HTML, CSS, SASS, twig, Javascript, PHP, React, Angular, npm, <br/>
 
