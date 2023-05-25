@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 I am Korean who live in Copenhagen, Denmark<br/>
-A _Front-end_ Developer :seedling:  at <a href="https://trafficlab.dk/">Traffic Lab</a> <br/>
+A _Front-end_ Developer :seedling:<br/>
 <br/>
 
 
