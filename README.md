@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 I am Korean who live in Copenhagen, Denmark<br/>
-A _Front-end_ Developer <br/>
+A _Web Developer_  <br/>
 <br/>
 
 
@@ -28,9 +28,11 @@ A _Front-end_ Developer <br/>
 
 :white_check_mark: Graduated of HYF-Copenhagen(Class #19) <br/>
 
-:white_check_mark: C#, HTML, CSS, SASS, twig, Javascript, PHP, React, Angular, npm, <br/>
+:white_check_mark: C#, HTML, CSS, SASS, twig, Javascript, PHP, React, Angular, npm, VUE2&3 <br/>
 
-:white_check_mark: Unity, Drupal and WordPress <br/>
+:white_check_mark: Unity, Drupal, ASP.NET and WordPress <br/>
+
+:white_check_mark: Jira, bitbucket, Figma, Agile & scrum <br/>
 
 :white_check_mark: Adobe Photoshop, Adobe Premiere Pro,  Adobe After Effects <br/>
 
